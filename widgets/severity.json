@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b69e0e915e46d0c5",
+  "name" : "enter name and lastname",
+  "time" : {
+    "start" : 1741624437646,
+    "stop" : 1741624437646,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "critical"
+} ]

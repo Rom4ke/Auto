@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "test.feature_form_test",
+    "children" : [ {
+      "name" : "enter name and lastname",
+      "uid" : "b69e0e915e46d0c5",
+      "parentUid" : "13f30ebb6b72fb0d68e940a382b6c18a",
+      "status" : "broken",
+      "time" : {
+        "start" : 1741624437646,
+        "stop" : 1741624437646,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test.feature_form_test"
+  } ],
+  "name" : "packages"
+}

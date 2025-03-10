@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=33799): Read timed out. (read timeout=120)",
+      "children" : [ {
+        "name" : "enter name and lastname",
+        "uid" : "b69e0e915e46d0c5",
+        "parentUid" : "cc71a80ab24f92380b38cbb6c4f5e86a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1741624437646,
+          "stop" : 1741624437646,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc71a80ab24f92380b38cbb6c4f5e86a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

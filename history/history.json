@@ -1,0 +1,22 @@
+{
+  "9b189f372a44a24a8b7ed97cb2c8c0fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b69e0e915e46d0c5",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=33799): Read timed out. (read timeout=120)",
+      "time" : {
+        "start" : 1741624437646,
+        "stop" : 1741624437646,
+        "duration" : 0
+      }
+    } ]
+  }
+}
